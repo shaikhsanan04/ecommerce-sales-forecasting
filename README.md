@@ -3,7 +3,7 @@
 A full-featured, dark-themed interactive Streamlit application for the Olist Brazilian E-Commerce Sales Forecasting ML project.
 
 ## 🚀 Live Demo
-[Deploy on Streamlit Cloud →](#deployment)
+[https://ecommerce-sales-forecasting.streamlit.app/]
 
 ## 📁 Repository Structure
 
